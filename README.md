@@ -6,3 +6,4 @@
 ### Chandra Tan - 2201762931
 ### Kevin Orlando Sutanto -2201760945 
 ### Muhamad Daffa Mennawi - 2201810943
+### Devinca Limto - 2201758000
